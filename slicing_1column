@@ -1,0 +1,56 @@
+#a="shainaz"
+# print(a[0],a[1],a[2],a[3],a[4],a[5],a[6],sep="")
+# print(a[0]+a[1]+a[2]+a[3]+a[4]+a[5]+a[6])
+# print(a[0:7])
+# print(a[1]+a[2]+a[3])
+# print(a[8],a[9],a[10])                                           #str index out of range
+# print(a[-1],a[-2],a[-3],a[-4],a[-5],a[-6],a[7],sep='')
+# print(a[-1]+a[-2]+a[-3]+a[-4]+a[-5]+a[-6]+a[-7])
+# print(a[:])              #shainaz  
+# print(a[0:])             #shainaz  
+# print(a[1:])             #hainaz
+# print(a[2:])             #ainaz
+# print(a[3:])             #inaz
+# print(a[4:])             #naz
+# print(a[5:])             #az
+# print(a[6:])             #z
+# print(a[7:])             #blankline
+# print(a[8:])            #blankline   
+# print(a[0:1])            #s
+# print(a[0:0])            #blankline        
+# print(a[0:2])            #sh
+# print(a[0:3])            #sha
+# print(a[0:4])            #shai
+# print(a[0:5])             #shain
+# print(a[0:6])           #shaina
+# print(a[0:7])            #shainaz
+# print(a[0:8])            #shainaz
+  
+# print(a[0:-8])               #blankline
+# print(a[-1:])             
+# print(a[-2:])             
+# print(a[-3:])             
+# print(a[-4:])             
+# print(a[-5:])             
+# print(a[-6:3])              #ha
+# print(a[-7:])             
+# print(a[-8:])             #shainaz
+# print(a[0:-1])              #shaina
+# print(a[0:0])              #blankline          
+# print(a[0:-2])            #shain
+# print(a[0:-3])            #shai
+# print(a[0:-4])             #sha
+# print(a[0:-5])             #sh
+# print(a[0:-6])              #s
+# print(a[0:-7])            #bl
+# print(a[0:-8])             #bl
+
+# print(a[-7: ])                      
+# print(a[-7:-1])                        
+# print(a[-7:-2])            
+# print(a[-7:-3])            
+# print(a[-7:-4])             
+# print(a[-7:-5])             
+# print(a[-7:-6])              
+# print(a[-7:-7])            
+
