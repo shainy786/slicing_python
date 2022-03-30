@@ -1,0 +1,30 @@
+input="shainaz"
+# print(input[: :])                            #shainaz
+# print(input[::1])                            #shainaz
+# print(input[::2])                            #sanz
+# print(input[::3])                            #siz
+# print(input[::4])                             #sn
+# print(input[::5])                             #sa
+# print(input[::6])                              #sz
+# print(input[::7])                              #s
+# print(input[::8])                              #s
+
+# print(input[0:3:1])                     #shai
+# print(input[1:4:2])                      #hi
+# print(input[6::1])                         #z
+# print(input[7::1])                         #blankline
+
+# print(input[ :0 :-1])
+# print(input[ :1 :-1])
+# print(input[ :2 :-1])
+# print(input[ :-7:-1])
+
+
+
+# print(input[::-1])                     #zaniahs
+# print(input[::-2])                     #znas
+# print(input[::-3])                       #zis
+# print(input[::-4])                       #za
+# print(input[::-5])                       #zh
+# print(input[::-6])                         #zs
+# print(input[::-7])                        #z
